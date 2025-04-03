@@ -14,7 +14,7 @@ The approach is validated using a **one-dimensional stochastic double-well poten
 ## Overview
 
 - **Objective**: State estimation in nonlinear dynamical systems.
-- **Methodology**: Integration of PINNs with Bayesian Inference to estimate system states accurately.
+- **Methodology**: Integration of PINNs with Bayesian Inference to estimate system states.
 - **Validation**: A one-dimensional stochastic double-well potential model.
 - **Comparison**: Benchmarking against EnKF, PF, and FDM Bayes (all codes included).
 
@@ -22,7 +22,7 @@ The approach is validated using a **one-dimensional stochastic double-well poten
 
 - Accurate prior estimation using PINNs.
 - Bayesian inference for posterior state estimation.
-- High-performance benchmarks against traditional methods.
+- Benchmarks against traditional methods.
 - Open-source code for reproduction and further research.
 
 ## Citation
